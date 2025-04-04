@@ -50,7 +50,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5174",  # Vite development server
+    "https://ivyrose54.github.io/frontend-todoapp/",  # Vite development server
 ]
 
 ROOT_URLCONF = "todo_backend.urls"
